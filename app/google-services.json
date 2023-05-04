@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790697750579",
+    "project_id": "portplay-71855",
+    "storage_bucket": "portplay-71855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790697750579:android:87ac4e0bb57f0b1c63b346",
+        "android_client_info": {
+          "package_name": "com.example.portplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790697750579-bahjq62rogu63rk64vv0oud832qufspq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--Fax-UcVbenhMyoyLvhbFKE8-sAM__E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790697750579-bahjq62rogu63rk64vv0oud832qufspq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
